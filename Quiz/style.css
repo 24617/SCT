@@ -1,0 +1,104 @@
+@font-face {
+  font-family: Nusaliver;
+  src: url(UnicornScribbles.otf);
+}
+
+body {
+  background-color: grey;
+}
+
+ul {
+  margin-left: 0px;
+  margin-right: 0px;
+  list-style-type: none;
+}
+
+#titel {
+  margin-top: 20px;
+  border-bottom-color: black;
+  border-bottom-style: solid;
+  width: 300px;
+  padding: 5px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Nusaliver;
+  margin-bottom: 40px;
+  font-size: 60px;
+
+}
+
+.wrapper {
+  background-color: grey;
+  border-style: solid;
+  border-color: black;
+  margin: 0 auto;
+  width: 700px;
+  height: 580px;
+  font-family: Nusaliver;
+}
+
+#myQuestion {
+  background-color: #C3C3C3;
+  border-style: solid;
+  width: 600px;
+  height: 40px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+li {
+  background-color: white;
+  border-style: solid;
+  width: 400px;
+  height: 40px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+#test:hover {
+    background-color: #A9A9A9;
+}
+
+#startbutton {
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  font-family: Nusaliver;
+  font-size: 40px;
+  margin: 0 auto;
+  display:block;
+  margin-top: 50px;
+  text-align: center;
+
+}
+
+
+#answerBox {
+  padding-left: 0px;
+}
+
+#end {
+  font-family: Nusaliver;
+  font-size: 40px;
+  text-align: center;
+}
+
+#tryagain {
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  font-family: Nusaliver;
+  font-size: 40px;
+  margin: 0 auto;
+  display:block;
+  margin-top: 50px;
+  text-align: center;
+
+}
